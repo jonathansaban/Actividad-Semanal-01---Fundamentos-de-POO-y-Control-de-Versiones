@@ -8,6 +8,8 @@
  * @author jotajota
  */
 public class Veterinaria {
+    
+    //seguno commit
     public static void main(String[] args) {
                 // Crear objetos de tipo Mascota
         Mascota m1 = new Mascota("Luna", "Perro", 3, true);
